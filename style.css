@@ -435,3 +435,12 @@ footer p {
   width: 150px; /* Fixed width */
   height: auto; /* Height adjusts based on the aspect ratio */
 }
+
+.icons {
+  width: 150px;           
+  height: 150px;          
+  border-radius: 50%;     
+  object-fit: cover;      
+  border: 3px solid #000; 
+}
+
